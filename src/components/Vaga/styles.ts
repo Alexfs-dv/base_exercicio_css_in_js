@@ -5,7 +5,7 @@ const Vacancy = styled.li`
   background-color: #f9f5e7;
   color: #a7727d;
   padding: 16px;
-  transition: all ease 0.3s;
+  transition: all ease 0.5s;
   border-radius: 8px;
 
   &:hover {
