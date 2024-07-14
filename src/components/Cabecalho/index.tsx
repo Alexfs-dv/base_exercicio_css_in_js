@@ -7,4 +7,3 @@ const Cabecalho = () => (
 )
 
 export default Cabecalho
-
